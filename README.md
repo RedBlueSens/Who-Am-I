@@ -1,7 +1,7 @@
 # Who-Am-I
 Who am I
 
-Hello World, I am RedWine
+*Hello World, I am RedWine
 İ am 28 years old
 I'm curious about the magical world of Blockchain and what goes behind the scenes.
 I try to take part in quality projects at an early stage. As someone who thinks web3 is inevitable, I use web3 social media and applications
